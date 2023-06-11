@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+ body{
+	 width:300px;
+	 height:140vh;
+/* 	 background-color:rgb(219, 219, 208); */
+	 margin:20px 120px;
+	 align-text:center;
+ }
+.text{
+	width:100%;
+	text-align:center;
+}
+img{
+	margin:50px 0px 0px 50px;
+	
+}
+.all{
+	 -webkit-box-shadow: 1px 4px 5px 4px rgb(76, 72, 72);
+	background-color:rgb(219, 219, 208);
+	height:78%;
+}
+h2{
+	background-color:rgb(242, 92, 107);
+	border:1px slolid black;
+	color:white;
+	margin: 30px 90px;
+	padding:2px;
+	border-radius:10px
+}
