@@ -19,11 +19,11 @@ img{
 	background-color:rgb(219, 219, 208);
 	height:78%;
 }
-h2{
+#button{
 	background-color:rgb(242, 92, 107);
 	border:1px slolid black;
 	color:white;
-	margin: 30px 90px;
-	padding:2px;
+	margin: 10px 90px;
+	padding:10px;
 	border-radius:10px
 }
